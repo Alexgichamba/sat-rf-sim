@@ -1,2 +1,11 @@
 # sat-rf-sim
- This models channels for RF propagation between a satellite and ground station
+
+This is a simple satellite RF link simulator and analyser.
+>It requires the MATLAB Satellite Communications Toolbox.
+
+## Functionality
+- [x] Orbit Visualization
+- [x] Link Simulation
+- [x] Access Time Analysis
+- [ ] Modelling of path propagation losses
+- [ ] Link Budget Analysis
