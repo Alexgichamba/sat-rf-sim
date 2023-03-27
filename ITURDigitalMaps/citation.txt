@@ -1,0 +1,10 @@
+"ITURDigitalMaps.tar.gz" file contains 4 MAT-files with digital maps derived from the ITU materials.
+Digital maps from the following ITU materials are used in this dataset:
+  1. International Telecommunication Union, ITU-R Recommendation P.1511 (08/2019)
+  2. International Telecommunication Union, ITU-R Recommendation P.1510 (06/2017)
+  3. International Telecommunication Union, ITU-R Recommendation P.836 (12/2017)
+  4. International Telecommunication Union, ITU-R Recommendation P.840 (08/2019)
+  5. International Telecommunication Union, ITU-R Recommendation P.837 (06/2017)
+  6. International Telecommunication Union, ITU-R Recommendation P.453 (08/2019)
+  7. International Telecommunication Union, ITU-R Recommendation P.839 (09/2013)
+

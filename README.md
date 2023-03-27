@@ -7,5 +7,5 @@ This is a simple satellite RF link simulator and analyser.
 - [x] Orbit Visualization
 - [x] Link Simulation
 - [x] Access Time Analysis
-- [ ] Modelling of path propagation losses
+- [x] Analysis of path propagation losses
 - [ ] Link Budget Analysis
